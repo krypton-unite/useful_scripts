@@ -2,7 +2,7 @@
 # Based on https://stackoverflow.com/a/44036486
 #
 # Utilization:
-# $ bash <(curl -s https://github.com/krypton-unite/useful_scripts/Travis/create_all_branches)
+# $ bash <(curl -s https://github.com/krypton-unite/useful_scripts/raw/main/Travis/create_all_branches.sh)
 
 function create_all_branches()
 {
